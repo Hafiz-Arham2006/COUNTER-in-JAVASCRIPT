@@ -1,0 +1,21 @@
+.container{
+    width: 500px;
+    height: 200px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    text-align: center;
+    margin-top: 200px;
+   
+}
+#increment{
+    margin-top: 20px;
+}
+
+#decrement{
+    margin-top: 20px;
+}
+
+#resetbtn{
+    margin-top: 20px;
+}
